@@ -1,0 +1,3 @@
+.Footer {
+    @apply flex items-center justify-center bg-brand-secondary-20 w-full h-[80px];
+}
